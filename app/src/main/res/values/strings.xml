@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">QuizAppUdacity</string>
+    <string name="computer">The Computer</string>
+    <string name="question1">1. Vacuum tubes were used in what generation?</string>
+    <string name="second">Second</string>
+    <string name="first">First</string>
+    <string name="third">Third</string>
+    <string name="fourth">Fourth</string>
+    <string name="question2">2. Which of the following are storage devices?</string>
+    <string name="mouse">Mouse</string>
+    <string name="drive">Hard Drive</string>
+    <string name="disk">USB Disk</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="question3">3. What does ISP stand for?</string>
+    <string name="question4">4. What does WWW stand for?</string>
+    <string name="question5">5. What is a collection of 1024 Bytes is called?</string>
+    <string name="_1MB">1MB</string>
+    <string name="_1TB">1TB</string>
+    <string name="_1GB">1GB</string>
+    <string name="_1KB">1KB</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="java1">Question 1</string>
+    <string name="jav2">Question 2</string>
+    <string name="jav3">Question 3</string>
+    <string name="jav4">Question 4</string>
+    <string name="jav5">Question 5</string>
+    <string name="message1">Poor.\nRecheck the following:\n</string>
+    <string name="message2">Fair.\nRecheck the following:\n</string>
+    <string name="message3">Good.\nRecheck the following:\n</string>
+    <string name="message4">Great. \nRecheck the following:\n</string>
+    <string name="message5">Awesome. \nRecheck the following:\n</string>
+    <string name="message6">Excellent. \nYou got all correct\n</string>
+    <string name="toast1">You got </string>
+    <string name="toast2">/5 answers right.\n</string>
+</resources>
